@@ -1,0 +1,12 @@
+{
+  "name": "learn-nodejs-basic",
+  "version": "1.0.0",
+  "description": "latihan saja",
+  "license": "ISC",
+  "author": "atuuuy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
